@@ -1,0 +1,6 @@
+/home/snowtyy/RiderProjects/ProjetChrypto/ProjetChrypto/bin/Debug/ProjetChrypto.exe
+/home/snowtyy/RiderProjects/ProjetChrypto/ProjetChrypto/bin/Debug/ProjetChrypto.pdb
+/home/snowtyy/RiderProjects/ProjetChrypto/ProjetChrypto/obj/Debug/ProjetChrypto.csprojAssemblyReference.cache
+/home/snowtyy/RiderProjects/ProjetChrypto/ProjetChrypto/obj/Debug/ProjetChrypto.csproj.CoreCompileInputs.cache
+/home/snowtyy/RiderProjects/ProjetChrypto/ProjetChrypto/obj/Debug/ProjetChrypto.exe
+/home/snowtyy/RiderProjects/ProjetChrypto/ProjetChrypto/obj/Debug/ProjetChrypto.pdb
